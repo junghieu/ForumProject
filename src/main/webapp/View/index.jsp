@@ -15,7 +15,7 @@
     <div id="primaryContentContainer">
       <div id="primaryContent">
         <h2>Chào mừng đến với diễn đàn nhóm JSP!</h2>
-        <p>Đây là một dự án mô phỏng forum sử dụng mô hình JSP/Servlet theo MVC. Phần giao diện được thiết kế tĩnh, chưa có xử lý logic.</p>
+        <p>Đây là một dự án mô phỏng forum sử dụng mô hình JSP/Servlet theo MVC.</p>
         
         <h3>Danh sách bài viết mới</h3>
         <table>

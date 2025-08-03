@@ -19,7 +19,7 @@
       <h3>Bình luận (giả lập)</h3>
       <ul>
         <li><strong>Minh:</strong> Dự án này nhìn dễ hiểu quá!</li>
-        <li><strong>Lan:</strong> Giao diện sạch sẽ 👍</li>
+        <li><strong>Lan:</strong> Giao diện sạch sẽ</li>
       </ul>
     </div>
   </div>

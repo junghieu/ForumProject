@@ -1,7 +1,7 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <div id="header">
   <h1><a href="<%=request.getContextPath()%>/View/home.jsp">Forum JSP</a></h1>
-  <h2>Chào mừng trở lại, [Tên người dùng]</h2>
+  <h2>Chào mừng trở lại</h2>
 </div>
 
 <div id="menu">
