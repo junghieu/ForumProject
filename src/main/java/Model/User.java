@@ -12,6 +12,11 @@ public class User {
         this.password = password;
     }
 
+    public User(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+
     // Getters & setters
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }

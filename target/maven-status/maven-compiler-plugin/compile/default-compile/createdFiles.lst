@@ -1,0 +1,12 @@
+Controller\LoginServlet.class
+Model\User.class
+Controller\RegisterServlet.class
+Model\CommentDAO.class
+Util\DBConnection.class
+Controller\LogoutServlet.class
+Controller\CommentServlet.class
+Model\Comment.class
+Model\Post.class
+Model\UserDAO.class
+Model\PostDAO.class
+Controller\PostServlet.class
